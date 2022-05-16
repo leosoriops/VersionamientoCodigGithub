@@ -1,0 +1,8 @@
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\bin\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.deps.json
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\bin\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.dll
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\bin\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.pdb
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\obj\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.csproj.CoreCompileInputs.cache
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\obj\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.AssemblyInfoInputs.cache
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\obj\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.AssemblyInfo.cs
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\obj\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.dll
+C:\Users\leosorio\Downloads\3DContainerPacking-master2\3DContainerPacking-master\src\CromulentBisgetti.ContainerPacking\obj\Debug\netstandard2.0\CromulentBisgetti.ContainerPacking.pdb

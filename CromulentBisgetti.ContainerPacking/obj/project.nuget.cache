@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8M59vMyKh3VlTgHdqalAGhl2NVqavhZRJ1yP/t+6mbKC1eaH1nOx42J2+ZM3+Pn0YBa0b0OTBgCYfz/3DfH8IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosorio\\Downloads\\3DContainerPacking-master2\\3DContainerPacking-master\\src\\CromulentBisgetti.ContainerPacking\\CromulentBisgetti.ContainerPacking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
