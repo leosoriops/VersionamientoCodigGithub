@@ -19,11 +19,6 @@ namespace CromulentBisgetti.DemoApp
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-<<<<<<< HEAD
-                .UseStartup<Startup>() ;
-    } 
-=======
                 .UseStartup<Startup>(  );
     }
->>>>>>> development
 }
